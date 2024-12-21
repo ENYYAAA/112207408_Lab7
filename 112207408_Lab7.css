@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.inputs {
+    margin-bottom: 20px;
+}
+
+.inputs input, .inputs button {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+th, td {
+    padding: 10px;
+}
+
+tfoot td {
+    font-weight: bold;
+}
